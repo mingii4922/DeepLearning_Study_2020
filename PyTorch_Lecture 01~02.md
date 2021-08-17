@@ -9,6 +9,7 @@ Human intelligence : 사람은 어떠한 결정을 할 때 많은 지식 또는 
 
 _**목표 : 어떠한 정보(input)를 가지고 컴퓨터를 학습시켜 
 예측한 값이 실제output과 같도록 하는것**_
+
 ![](https://images.velog.io/images/mingii4922/post/eeb2009f-835f-4b63-9e17-5e220bb0e041/image.png)
 --
 이미지에 대해서 해당 픽셀의 너비와 해당하는 이미지의 라벨을 통해 학습시킨다.
