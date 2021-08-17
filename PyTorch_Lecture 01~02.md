@@ -7,7 +7,8 @@ Human intelligence : 사람은 어떠한 결정을 할 때 많은 지식 또는 
 머신러닝이란? Human intelligence와 동일하지만 기계학습(train)을 거쳐야 제대로 예측할 수 있다.
 머신러닝은 어떤 데이터를 분류하거나 값을 예측하는 것 ( 확률과 통계)
 
-_**목표 : 어떠한 정보(input)를 가지고 컴퓨터를 학습시켜 예측한 값이 실제output과 같도록 하는것**_
+_**목표 : 어떠한 정보(input)를 가지고 컴퓨터를 학습시켜 
+예측한 값이 실제output과 같도록 하는것**_
 ![](https://images.velog.io/images/mingii4922/post/eeb2009f-835f-4b63-9e17-5e220bb0e041/image.png)
 --
 이미지에 대해서 해당 픽셀의 너비와 해당하는 이미지의 라벨을 통해 학습시킨다.
