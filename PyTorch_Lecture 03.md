@@ -12,7 +12,7 @@ _**gradient descent(경사 하강법) : 랜덤의 위치에서 시작해서 기�
 
 ![](https://images.velog.io/images/mingii4922/post/5f6fd42b-ef40-46f1-b258-faa1ec74ef48/image.png)
 
-$w = w - lr*gradient$
+$ w = w - lr*gradient $
 -----------------
 ---------------
 ## Gradient Descent 종류
@@ -26,3 +26,7 @@ $w = w - lr*gradient$
 #### Momentum : 관성이라는 물리학 법칙을 응용한 방법
 -> 전 step의 접선의 기울기 값을 일정한 비율만큼 반영 
 -> 지역최소값에서 관성의 힘으로 빠져나올 수 있다.
+
+#### Adam : RMSprop와 모멘텀을 합친 방법
+-> 방향+학습률을 모두 잡기위한 방법
+-> **가장 많이 사용되는 경사 하강법**
